@@ -1,6 +1,6 @@
-deta>=1.1.0
-pandas>=1.5.1
-scikit_learn>=1.1.3
-scipy>=1.9.3
-streamlit>=1.14.0
+deta
+pandas
+scikit_learn
+scipy
+streamlit
 gunicorn
